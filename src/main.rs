@@ -19,7 +19,7 @@ fn main() {
 fn show_menu() {
     println!();
     println!();
-    println!("**** MENU ****");
+    println!("**** PROGRAM MENU ****");
     println!("1) show notes");
     println!("2) add note");
     println!("0) Exit");
